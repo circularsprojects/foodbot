@@ -1,4 +1,3 @@
-## this source code (v2) is out of date, v3 will be published soon
 # foodbot
 a discord bot that posts food
 # important information
