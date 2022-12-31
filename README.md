@@ -6,4 +6,4 @@ a discord bot that posts food
   - TEST_GUILD_ID=
 ## v3 information
 so i just rewrote the whole thing using a funny template so that it would actually work because in v2 it would just crash after a while and i have no clue why
-### currently at ~300 servers
+### currently at ~400 servers
