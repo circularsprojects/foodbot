@@ -1,3 +1,5 @@
+> [!IMPORTANT]
+> foodbot (javascript) is no longer updated or maintained, check out the swift rewrite instead: https://github.com/circularsprojects/foodbot-swift
 # foodbot (v3 rewrite)
 a discord bot that posts food
 # important information
